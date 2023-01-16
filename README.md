@@ -1,1 +1,3 @@
-# todo-list-typescript-react
+# POC - TypeScript and React
+
+#Todo List
