@@ -1,4 +1,4 @@
-# POC - TypeScript and React
+# PoC - TypeScript and React
 
 Todo List
 
